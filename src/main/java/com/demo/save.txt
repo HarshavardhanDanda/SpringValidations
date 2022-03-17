@@ -1,0 +1,5 @@
+<!--Course Code: <form:input path="courseCode" />
+        <form:errors path="courseCode" cssClass="error"/>
+        <br><br>-->
+
+<!--<h2> Course code: ${customer.courseCode}</h2>-->
